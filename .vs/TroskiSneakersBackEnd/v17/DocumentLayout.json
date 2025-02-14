@@ -1,29 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\models\\troskysneakerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\models\\troskysneakerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\infraestructure\\modelstatevalidatorfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\models\\taxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\models\\taxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\troskisneakersbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\troskisneakersbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\troskisneakersbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\troskisneakersbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\infraestructure\\modelstatevalidatorfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\infraestructure\\modelstatevalidatorfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\infraestructure\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\infraestructure\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\infraestructure\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\infraestructure\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\infraestructure\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\infraestructure\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\infraestructure\\actionfilterauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\juan\\source\\repos\\troskisneakersbackend\\troskisneakersbackend\\infraestructure\\actionfilterauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\infraestructure\\actionfilterauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,45 +50,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Program.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Program.cs",
               "RelativeToolTip": "TroskiSneakersBackEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:09:44.238Z",
+              "WhenOpened": "2025-02-14T04:11:54.57Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TroskySneakersContext.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "RelativeToolTip": "TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:09:25.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Taxes.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Models\\Taxes.cs",
+              "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Models\\Taxes.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Models\\Taxes.cs",
+              "RelativeToolTip": "TroskiSneakersBackEnd\\Models\\Taxes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:09:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TroskiSneakersBackEnd",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "RelativeToolTip": "TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T04:05:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TroskiSneakersBackEnd",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "RelativeToolTip": "TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T02:07:20.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ModelStateValidatorFilter.cs",
-              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
-              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
               "RelativeToolTip": "TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T03:09:24.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Models\\Response.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Models\\Response.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Models\\Response.cs",
-              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Models\\Response.cs",
               "RelativeToolTip": "TroskiSneakersBackEnd\\Models\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApiExceptionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
-              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
               "RelativeToolTip": "TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,11 +157,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ApiException.cs",
-              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
-              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
               "RelativeToolTip": "TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,16 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ActionFilterAuthorize.cs",
-              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
-              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
               "RelativeToolTip": "TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T03:06:47.481Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

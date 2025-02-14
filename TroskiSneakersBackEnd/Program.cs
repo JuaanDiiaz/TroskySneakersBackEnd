@@ -1,5 +1,7 @@
+using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using TroskiSneakersBackEnd.Infraestructure;
+using TroskiSneakersBackEnd.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,9 @@ builder.Services.AddControllers(config =>
     config.Filters.Add(new ActionFilterAuthorize());
     config.Filters.Add(new ApiExceptionFilter());
 });
+
+builder.Services.AddDbContext<TroskySneakersContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("myDBConn")));
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
