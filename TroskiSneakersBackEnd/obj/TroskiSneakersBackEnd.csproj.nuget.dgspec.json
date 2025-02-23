@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj": {}
+    "C:\\Users\\minij\\Source\\Repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj": {
+    "C:\\Users\\minij\\Source\\Repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\minij\\Source\\Repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
         "projectName": "TroskiSneakersBackEnd",
-        "projectPath": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+        "projectPath": "C:\\Users\\minij\\Source\\Repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
         "packagesPath": "C:\\Users\\minij\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\obj\\",
+        "outputPath": "C:\\Users\\minij\\Source\\Repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

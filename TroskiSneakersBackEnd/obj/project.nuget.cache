@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bK6t80XFwH0=",
+  "dgSpecHash": "bH0HOnPSTtg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
+  "projectFilePath": "C:\\Users\\minij\\Source\\Repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\minij\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\minij\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
