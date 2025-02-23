@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TroskiSneakersBackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e97ec8b1b849f91732c840da5999c27b2238def")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bbd1af8378ac64579de3cf67918eb487b5dd03b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TroskiSneakersBackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TroskiSneakersBackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

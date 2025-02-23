@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\models\\troskysneakerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\models\\troskysneakerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|c:\\users\\minij\\source\\repos\\troskysneakersbackend\\troskisneakersbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9787AE68-9351-4957-9514-C5CF7873C56F}|TroskiSneakersBackEnd\\TroskiSneakersBackEnd.csproj|solutionrelative:troskisneakersbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,28 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\appsettings.json*",
+              "RelativeToolTip": "TroskiSneakersBackEnd\\appsettings.json*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T20:35:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TroskySneakersContext.cs",
+              "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "RelativeToolTip": "TroskiSneakersBackEnd\\Models\\TroskySneakersContext.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAUwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:34:33.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Program.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Program.cs",
               "ToolTip": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Program.cs",
               "RelativeToolTip": "TroskiSneakersBackEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T03:09:44.238Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ModelStateValidatorFilter.cs",
               "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ModelStateValidatorFilter.cs",
@@ -68,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Models\\Response.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Models\\Response.cs",
@@ -76,12 +106,11 @@
               "RelativeToolTip": "TroskiSneakersBackEnd\\Models\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:08:40.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:08:40.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApiExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
@@ -89,12 +118,11 @@
               "RelativeToolTip": "TroskiSneakersBackEnd\\Infraestructure\\ApiExceptionFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:08:06.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:08:06.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApiException.cs",
               "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
@@ -102,12 +130,11 @@
               "RelativeToolTip": "TroskiSneakersBackEnd\\Infraestructure\\ApiException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:07:33.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:07:33.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ActionFilterAuthorize.cs",
               "DocumentMoniker": "C:\\Users\\minij\\source\\repos\\TroskySneakersBackEnd\\TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
               "RelativeDocumentMoniker": "TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
@@ -115,8 +142,7 @@
               "RelativeToolTip": "TroskiSneakersBackEnd\\Infraestructure\\ActionFilterAuthorize.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:06:47.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:06:47.481Z"
             }
           ]
         }

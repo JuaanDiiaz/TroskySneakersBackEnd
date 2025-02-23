@@ -13,5 +13,5 @@ namespace TroskiSneakersBackEnd.Infraestructure
             }
             _ = await next();
         }
-    }
+    } 
 }
